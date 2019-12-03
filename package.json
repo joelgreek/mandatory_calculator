@@ -1,0 +1,25 @@
+{
+  "name": "kalkylator",
+  "version": "1.0.0",
+  "description": "The mandatory calculator",
+  "main": "app.js",
+  "homepage": "https://joelgreek.github.io/mandatory_calculator",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelgreek/mandatory_calculator.git"
+  },
+  "author": "Joel Greek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelgreek/mandatory_calculator/issues"
+  },
+  "readme": "https://github.com/joelgreek/mandatory_calculator#readme"
+}
